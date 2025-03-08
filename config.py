@@ -1,0 +1,2 @@
+API_TOKEN = "8001771819:AAFBuuCjBkd3bh_-gAuooAZ8S_9fbGaJI5E"
+ADMIN_IDS = {270454890}  # Укажите ID админов
